@@ -1,0 +1,13 @@
+import demo11.cal;
+
+public class demo {
+	public static void main(String a[]){
+		
+		System.out.println("Hello");
+		cal c= new cal();
+		int b =c.add(10,20);
+		System.out.println("ans"+b);
+		
+	}
+
+}

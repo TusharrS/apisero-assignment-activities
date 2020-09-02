@@ -1,0 +1,15 @@
+
+public class data_PlayTypes {
+public static void main(String args[]){
+	int a=30;
+	String b="40";
+	short c= 1122;
+	System.out.println(Integer.parseInt(b));
+	System.out.println(Integer.toHexString(a));
+	System.out.println(Short.toString(c));
+	System.out.println(Short.toUnsignedInt(c));
+	
+
+	
+}
+}
